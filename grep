@@ -1,0 +1,1 @@
+grep -E "\.(php|php3|php4|php5|php7|phps|asp|asa|cdx|aspx|ascx|ashx|asmx|axd|jsp|cfm|cfml|erb|py)(\b|$)" urls.txt > filtered_urls.txt
